@@ -1,4 +1,4 @@
-## Responsive Portfolio Website ✨ --> https://degala-prasanna.github.io/Developers-Portifolio/
+## Responsive Portfolio Website ✨ --> https://velagashanmukh.github.io/Developers-Portifolio/
 
 Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
 Website contains: 
